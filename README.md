@@ -9,9 +9,13 @@ The main objectives of the proposed system are:
 
 - [x] Capable of saving the user from water-prone diseases.
 
+
 </br>
+Click here to <a href="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/IoT_Based_WQMS.apk">download</a> the apk.
+
+</br></br>
 <span style="margin:5px;">
-    <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/FlowChart.PNG" width="300">
+    <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/FlowChart.PNG" width="400">
 </span>
 <span style="margin:5px;">
     <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/App.jpg" width="250">
