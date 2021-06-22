@@ -3,16 +3,16 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
-const char* FIREBASE_HOST = “database_linkxxxxx";                     //database link
-const char* AUTH = “your_authentication_keyxxxx";     	          //database authentication key
+const char* FIREBASE_HOST = "database_linkxxxxx";                     //database link
+const char* AUTH = "your_authentication_keyxxxx";     	          //database authentication key
 
-const char* ssid = “wifi_ssid";     			          //wifi name
-const char* password = “wifi_password";  		          //wifi password
+const char* ssid = "wifi_ssid";     			          //wifi name
+const char* password = "wifi_password";  		          //wifi password
 char* state;
 
 const char* IFTTT_HOST = "maker.ifttt.com";   		          //ifttt website
 const char* event = "Water_quality_breach_call";    	          //ifttt applet name
-const char* iftttkey = “ifttt_keyxxx";        		          //ifttt key
+const char* iftttkey = "ifttt_keyxxx";        		          //ifttt key
 
 
 #define temperature  2           		           //DS18B20 on arduino pin2 corresponds to D4 on physical board
