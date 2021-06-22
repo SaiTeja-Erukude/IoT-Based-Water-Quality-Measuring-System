@@ -15,7 +15,7 @@ Click here to <a href="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Qualit
 
 </br></br>
 <span style="margin:5px;">
-    <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/FlowChart.PNG" width="400">
+    <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/FlowChart.PNG" width="500">
 </span>
 <span style="margin:5px;">
     <img src="https://github.com/SaiTeja-Erukude/IoT-Based-Water-Quality-Measuring-System/blob/main/App.jpg" width="250">
